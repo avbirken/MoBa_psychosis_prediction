@@ -1,0 +1,17 @@
+
+source("N:/durable/users/avbirken/Paper_3/complete_QC_data/getDiagInfo_script/getDiagInfo_script_KUHR.R")
+source("N:/durable/users/avbirken/Paper_3/complete_QC_data/getDiagInfo_script/getDiagInfo_script_KUHR_P_diagnoses.R")
+source("N:/durable/users/avbirken/Paper_3/complete_QC_data/getDiagInfo_script/getDiagInfo_script_NPR.R")
+
+#diagnostic predictors
+source("N:/durable/users/avbirken/Paper_3/complete_QC_data/QC_childrens_diagnoses_before_Q14.R")
+source("N:/durable/users/avbirken/Paper_3/complete_QC_data/QC_fathers_diagnoses_before_Q14.R")
+source("N:/durable/users/avbirken/Paper_3/complete_QC_data/QC_mothers_diagnoses_before_Q14.R")
+source("N:/durable/users/avbirken/Paper_3/complete_QC_data/QC_combining_all_diagn_predictors.R")
+
+#other predictor groups
+source("N:/durable/users/avbirken/Paper_3/complete_QC_data/QC_pre_perinatal_exposures.R")
+source("N:/durable/users/avbirken/Paper_3/complete_QC_data/QC_PRS.R")
+source("N:/durable/users/avbirken/Paper_3/complete_QC_data/QC_CAPE.R")
+source("N:/durable/users/avbirken/Paper_3/complete_QC_data/QC_Q14_adolescents.R")
+
